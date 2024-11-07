@@ -1,3 +1,4 @@
+**Cookies_Local_Storage**
 This project involves multiple tasks related to web storage and cookies using JavaScript. The main tasks involve creating and managing cookies and local storage, including adding, reading, deleting cookies, and implementing a shopping cart with local and session storage.
 
 Here is a breakdown of the tasks:
